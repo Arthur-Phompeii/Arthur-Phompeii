@@ -1,5 +1,10 @@
 ## Bem-vindo(a) ao perfil do Arthur-Phomepeii 😁
 
+# Sobre mim 
+ - Aspirante a programador
+ - Estudante de FrontEnd 
+ - "Desenvolvendo projetos para sempre melhorar" - Esse é meu lema!
+# 
  <div>
    <a href="https://github.com/Arthur-Phompeii">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Arthur-Phompeii&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -14,7 +19,7 @@
  
 <br>
  
-### Abaixo estão formas para entrar em contato!
+### Abaixo estão algumas formas para entrar em contato!
  
 <div> 
   <a href="https://instagram.com/_.arthur._.freitas" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
