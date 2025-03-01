@@ -1,7 +1,7 @@
 ## Bem-vindo(a) ao perfil do Arthur-Phomepeii 😁
 
 # Sobre mim 
- - Aspirante a programador
+ - Aprendiz de programador
  - Estudante de FrontEnd 
  - "Desenvolvendo projetos para sempre melhorar" - Esse é meu lema!
 # 
